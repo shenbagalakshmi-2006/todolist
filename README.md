@@ -1,16 +1,41 @@
-# React + Vite
+# 📝 To-Do List App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **To-Do List App** built with **React.js**.  
+This project helps users efficiently manage their daily tasks — add, edit, mark as complete, and delete tasks with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+✅ Add new tasks  
+✅ Edit existing tasks  
+✅ Mark tasks as completed / pending  
+✅ Delete tasks  
+✅ Responsive UI   
+✅ Persistent data using localStorage  
+✅ Interactive form validation  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js, HTML5, CSS3, JavaScript 
+- **State Management:** useState / useEffect Hooks
+- **Styling:** CSS Modules 
+- **Data Storage:** Browser Local Storage
+
+---
+
+## 📸 Screenshots
+
+| ![Screen Shot](./src/assets/Screenshot%202025-10-15%20200454.png) | 
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/todo-list-react.git
